@@ -13,6 +13,7 @@ draft = false
 Called Shane. We read the Day’s Text:
 
 > **“The wild beast that *was* but *is not* . . . goes off into destruction.” — Rev. 17:11**
+
 >
 > This wild beast looks almost the same as the seven‑headed wild beast, except that it is scarlet-colored. It is called “the image of the wild beast” and is described as “an eighth king.” (Rev. 13:14, 15; 17:3, 8)
 >

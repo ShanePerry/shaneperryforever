@@ -1,9 +1,9 @@
 +++
-title: "Day 71 — Monday, August 26, 2024"
-date: 2024-08-26
-summary: "Shane’s progress, therapies, discharge planning, kindnesses, and answered prayers."
-tags: ["ten-weeks", "day-71"]
-draft: false
+title = "Day 71 — Monday, August 26, 2024"
+date = 2024-08-26
+summary = "Shane’s progress, therapies, discharge planning, kindnesses, and answered prayers."
+tags = ["ten-weeks", "day-71"]
+draft = false
 +++
 
 ### 7:40 AM  
@@ -82,3 +82,4 @@ I called him to let him know I got home. He said the headache was better and he 
 
 3. **Clarity and Peace:**  
    If necessary to prevent a future fall, help us know the original cause of the fall. And please help us feel peace when/if the prayer has been answered.
+
