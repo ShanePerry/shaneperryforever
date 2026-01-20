@@ -1,0 +1,42 @@
+
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Shane Perry Forever"
+theme = "congo"
+
+# Congo recommends using Hugo Pipes/Modules; this works well with submodule too.
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 10
+
+
+[markup.goldmark.renderer]
+unsafe = true  # allow raw HTML in Markdown (for custom embeds)
+
+[menu]
+  [[menu.main]]
+    name = "Memories"
+    url = "/memories/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Ten Weeks"
+    url = "/ten-weeks/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About Shane"
+    url = "/about-shane/"
+    weight = 3
+
+
+
+[params]
+  colorScheme = "vanessa"
+  defaultAppearance = "dark"
+  enableCodeCopy = true
+  enableSearch = false
+  customCSS = ["css/custom.css"]
+
+

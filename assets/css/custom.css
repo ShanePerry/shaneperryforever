@@ -1,0 +1,130 @@
+
+/* ==========================
+   Text color system on dark background
+   Background is already #1E293B; now define copy colors
+   ========================== */
+
+
+/* ---- Base paragraph/body copy ---- */
+body, p {
+  color: rgb(100, 116, 139); /* #CBD5E1 */
+}
+
+/* Prose (Congo uses @tailwind/typography) */
+.prose, .prose :where(p) {
+  color: rgb(100 116 139) !important; /* ensure prose respects paragraph color */
+}
+
+/* Lists should match paragraph tone */
+.prose :where(li) {
+  color: rgb(203 213 225);
+}
+
+/* ---- Headings (all levels) ---- */
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(255 255 255);
+}
+.prose :where(h1, h2, h3, h4, h5, h6) {
+  color: rgb(255 255 255) !important;
+}
+
+/* ---- Blockquotes / quotes ---- */
+blockquote {
+  color: rgb(255 255 255);
+  border-left-color: rgba(255, 255, 255, 0.25);
+}
+.prose :where(blockquote) {
+  color: rgb(255 255 255) !important;
+  border-left-color: rgba(255, 255, 255, 0.25) !important;
+}
+
+/* ---- Emphasis / Strong ---- */
+b, strong {
+  color: rgb(255 255 255);
+}
+.prose :where(strong) {
+  color: rgb(255 255 255) !important;
+}
+
+/* Optional: small/figcaption/muted text slightly cooler */
+small, .prose :where(small), figcaption, .prose :where(figcaption) {
+  color: rgba(203, 213, 225, 0.85);
+}
+
+/* Keep links readable; adjust only if you want different link tones */
+a, .prose a {
+  /* leave as-is or set a specific tone if desired */
+  text-decoration-color: rgba(203, 213, 225, 0.5);
+}
+a:hover, .prose a:hover {
+  text-decoration-color: rgb(255 255 255);
+}
+
+
+/* ==========================
+   Header & Navigation — force white text
+   ========================== */
+
+/* Site title (left) and menu links (right) */
+header a,
+header a span,
+header nav a,
+header nav a span {
+  color: rgb(255 255 255) !important;
+}
+
+/* Hover/active/visited states should remain readable */
+header nav a:hover,
+header nav a:focus,
+header nav a:active,
+header nav a:visited {
+  color: rgb(255 255 255) !important;
+}
+
+/* Optional: underline color on hover (subtle, classy) */
+header nav a .decoration-primary-500,
+header nav a span {
+  text-decoration-color: rgba(255, 255, 255, 0.65);
+}
+header nav a:hover .decoration-primary-500,
+header nav a:hover span {
+  text-decoration-color: rgb(255 255 255);
+}
+
+/* If your header uses icons/SVGs, make sure they are white too */
+header svg {
+  color: rgb(255 255 255);
+  fill: rgb(255 255 255);
+}
+
+
+/* =========================================
+   FORCE all H1 headings site-wide to be pure white
+   ========================================= */
+
+/* Raw HTML h1 elements */
+h1 {
+  color: rgb(255 255 255) !important;
+}
+
+/* Congo Typography (prose) h1 inside Markdown-generated pages */
+.prose :where(h1) {
+  color: rgb(255, 255, 255) !important;
+}
+
+
+.prose :where(h2, h3, h4, h5, h6) {
+  color: rgb(255 255 255) !important;
+}
+
+
+/* Remove italic from all blockquotes inside prose */
+.prose blockquote {
+  font-style: normal !important;
+}
+
+
+/* Override blockquote border color inside prose */
+.prose blockquote {
+  border-left-color: rgb(30, 58, 138) !important;
+}

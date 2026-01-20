@@ -1,0 +1,21 @@
+
+:root {
+  /* Neutral (background & base UI surfaces) */
+  --color-neutral-50:  30, 41, 59;
+  --color-neutral-100: 30, 41, 59;
+  --color-neutral-200: 30, 41, 59;
+  --color-neutral-300: 30, 41, 59;
+  --color-neutral-400: 30, 41, 59;
+  --color-neutral-500: 30, 41, 59;
+  --color-neutral-600: 30, 41, 59;
+  --color-neutral-700: 30, 41, 59;
+  --color-neutral-800: 30, 41, 59;
+  --color-neutral-900: 30, 41, 59;
+
+  /* Primary (links, accents) — choose a soft blue for now */
+  --color-primary-500:  147, 197, 253;
+  --color-primary-600:  96, 165, 250;
+
+  /* Secondary (optional) */
+  --color-secondary-500: 255, 255, 255;
+}

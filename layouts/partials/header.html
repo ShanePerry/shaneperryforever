@@ -1,0 +1,26 @@
+
+<header class="py-6 sm:py-10 print:hidden font-semibold">
+  <nav class="flex items-start justify-between sm:items-center">
+    <!-- Left: site title -->
+    <div class="flex flex-row items-center">
+      {{ .Site.BaseURL | relURL }}
+        {{ .Site.Title }}
+      </a>
+    </div>
+
+    <!-- Right: main menu -->
+    {{ with .Site.Menus.main }}
+      <ul class="flex list-none flex-col text-end sm:flex-row">
+        {{ range . }}
+          <li class="group mb-1 sm:mb-0 sm:me-7 sm:last:me-0">
+            {{ .URL | relURL }}
+              <span class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2 text-white">
+                {{ .Name }}
+              </span>
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </nav>
+</header>
