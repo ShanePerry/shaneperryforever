@@ -1,20 +1,22 @@
 
 +++
-title: "Day 73 — Wednesday, August 28, 2024"
-date: 2024-08-28
-summary: "Final update: hope, faith, comfort, and the love surrounding Shane on his way home."
-tags: ["ten-weeks", "day-73"]
-draft: false
+title = "Day 73 — Wednesday, August 28, 2024"
+date = 2024-08-28
+summary = "Final update: hope, faith, comfort, and the love surrounding Shane on his way home."
+tags = ["ten-weeks", "day-73"]
+slug = "day-73"
+weight = 73
+draft = false
 +++
 
 ### 7:00 AM  
 Called Shane. We read the Day’s Text:
 
-> **“The wild beast that *was* but *is not* . . . goes off into destruction.” — Rev. 17:11**  
+> **“The wild beast that *was* but *is not* . . . goes off into destruction.” — Rev. 17:11**
 >
-> This wild beast looks almost the same as the seven‑headed wild beast, except that it is scarlet-colored. It is called “the image of the wild beast” and is described as “an eighth king.” (Rev. 13:14, 15; 17:3, 8)  
+> This wild beast looks almost the same as the seven‑headed wild beast, except that it is scarlet-colored. It is called “the image of the wild beast” and is described as “an eighth king.” (Rev. 13:14, 15; 17:3, 8)
 >
-> This “king” is spoken of as coming into existence, then going out of existence, and later reappearing. This fits the United Nations very well: first as the League of Nations, then going out of existence during World War II, and then re‑emerging in its present form.  
+> This “king” is spoken of as coming into existence, then going out of existence, and later reappearing. This fits the United Nations very well: first as the League of Nations, then going out of existence during World War II, and then re‑emerging in its present form.
 >
 > By means of propaganda, the political beasts stir up opposition to Jehovah and his people, symbolically gathering “the kings of the entire inhabited earth” to Armageddon.  
 > *—w22.05 10 ¶10–11*
@@ -61,12 +63,12 @@ He knew:
 
 - he is loved  
 - he is wanted  
-- and Bethel is his home that he is coming back to  
+- and Bethel is his home he is coming back to  
 
 He was not conscious of anything after he collapsed, so he didn’t have pain or anxiety.  
 He’s resting now, and nothing can hurt him.
 
-That gives me relief.  
+That gives me relief.
 
 **Satan couldn’t take him from Jehovah.  
 He won.**
@@ -101,4 +103,4 @@ I said **Pomona Route 202**.
 
 She asked:
 
-> “Do you know Dr. Howard? She is my best friend. She tells me about Jehovah, and I get so mad at her because she tells me what Jehovah will want me to do. But she is my best friend because she tells me what is right and what is wrong.”  
+> “Do you know Dr. Howard? She is my best friend. She tells me about Jehovah, and I get so mad at her because she tells me what Jehovah will want me to do. But she is my best friend because she tells me what is right and what is wrong.”
