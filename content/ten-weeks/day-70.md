@@ -1,5 +1,5 @@
 +++
-title = "Day 70"
+title = "Day 70 — Sunday, August 25, 2024"
 slug = "day-70"
 date = 2024-08-25T19:00:00-05:00
 description = "Day 70 of Ten Weeks — August 25, 2024"
