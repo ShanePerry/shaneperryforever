@@ -95,7 +95,7 @@ The Birners brought me dinner and drove me home.
 
 ---
 
-## 💖 A Loving Note  
+## 💖 A Note  
 Since Shane and I will be back together tomorrow (Wednesday),  
 I want to spend more time with him every evening and less time writing on a device.
 
