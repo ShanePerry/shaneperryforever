@@ -1,9 +1,16 @@
 +++
 title = "Day 72 — Tuesday, August 27, 2024"
-date = 2024-08-27
-summary = "Therapies, preparations for discharge, kindness from staff, and reflections of gratitude."
-tags = ["ten-weeks", "day-72"]
+slug = "day-72"
+date = 2024-08-27T19:00:00-05:00
+description = "Day 72 of Ten Weeks — August 27, 2024"
+summary = "Daily updates, medical notes, and conversations from August 27."
+weight = 72
+url = "/ten-weeks/day-72/"
 draft = false
+tags = ["Ten Weeks", "Memories"]
+series = ["Ten Weeks"]
+toc = false
+comments = true
 +++
 
 ### 7:00 AM  

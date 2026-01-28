@@ -1,9 +1,16 @@
 +++
 title = "Day 71 — Monday, August 26, 2024"
-date = 2024-08-26
+slug = "day-71"
+date = 2024-08-26T19:00:00-05:00
+description = "Day 71 of Ten Weeks — August 26, 2024"
 summary = "Shane’s progress, therapies, discharge planning, kindnesses, and answered prayers."
-tags = ["ten-weeks", "day-71"]
+weight = 71
+url = "/ten-weeks/day-71/"
 draft = false
+tags = ["Ten Weeks", "Memories"]
+series = ["Ten Weeks"]
+toc = false
+comments = true
 +++
 
 ### 7:40 AM  
