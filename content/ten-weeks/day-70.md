@@ -13,8 +13,6 @@ toc = false
 comments = true
 +++
 
-**They are all living to Him—Luke 20:38**
-
 August 25, 2024 — **Sunday**
 
 ### 7:15
