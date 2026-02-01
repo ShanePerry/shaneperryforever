@@ -1,7 +1,7 @@
 +++
 title = "Day 59 — Wednesday, August 14, 2024"
 slug = "day-59"
-date = Wednesday, August 14, 2024T19:00:00-05:00
+date = 2024-08-14T19:00:00-05:00
 description = "Day 59 of Ten Weeks — August 14, 2024"
 summary = "Strong therapy performance and spiritual comfort."
 weight = 59
