@@ -128,3 +128,42 @@ h1 {
 .prose blockquote {
   border-left-color: rgb(30, 58, 138) !important;
 }
+
+/* ==========================
+   Bottom article pager
+   Force pure white text for links, arrows, and subtext
+   ========================== */
+.article-pagination a,
+.article-pagination span {
+  color: #ffffff !important;           /* rgb(255, 255, 255) */
+}
+
+.article-pagination a:hover,
+.article-pagination a:hover span {
+  color: #ffffff !important;
+}
+
+/* Optional: ensure any SVG icons/arrows inherit white */
+.article-pagination svg {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+}
+/* ==========================
+   "Back to top" arrow — make it pure white
+   ========================== */
+
+/* Targets the icon and wrapper */
+a[href="#the-top"],
+a[href="#the-top"] span,
+a[href="#the-top"] svg {
+    color: #ffffff !important;
+    fill: #ffffff !important;
+}
+
+/* Optional: keep white on hover, too */
+a[href="#the-top"]:hover,
+a[href="#the-top"]:hover span,
+a[href="#the-top"]:hover svg {
+    color: #ffffff !important;
+    fill: #ffffff !important;
+}

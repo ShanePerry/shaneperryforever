@@ -1,0 +1,76 @@
+{{ define "main" }}
+  <article>
+    <header class="max-w-prose">
+      <h1 class="mb-8 mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+      {{- with .Content -}}
+        <div class="prose dark:prose-invert">{{ . }}</div>
+      {{- end -}}
+    </header>
+
+    {{/* Collect pages in weight order (earliest -> latest) */}}
+    {{ $pages := .Pages.ByWeight }}
+
+    {{/* If nothing has a weight, fall back to date order (earliest -> latest) */}}
+    {{ if eq (len $pages) 0 }}
+      {{ $pages = .Pages.ByDate }}
+    {{ end }}
+
+    {{/* Optional: hide drafts unless running `hugo server -D` */}}
+    {{ if not .Site.BuildDrafts }}
+      {{ $pages = where $pages "Draft" "!=" true }}
+    {{ end }}
+
+    {{/* Save a simple boolean now, so we don't reference $pages again later */}}
+    {{ $hasPages := gt (len $pages) 0 }}
+
+    {{/* Track the current week number with Scratch */}}
+    {{ $s := newScratch }}
+    {{ $s.Set "currentWeek" 0 }}
+
+    
+
+
+    <section class="mt-8">
+      {{ range $i, $p := $pages }}
+        {{/* Weight-based order & grouping */}}
+        {{ $w := $p.Weight }}
+        {{ if eq $w 0 }}{{ $w = add $i 1 }}{{ end }}
+
+        {{/* Week number = ceil(weight / 7) -> div(weight + 6, 7) */}}
+        {{ $wn := div (add $w 6) 7 }}
+        {{ $currentWeek := $s.Get "currentWeek" }}
+
+        {{ if ne $wn $currentWeek }}
+          {{ if gt $currentWeek 0 }}
+              </ul>
+            </div>
+          {{ end }}
+
+          {{/* Day range for header: start=(wn-1)*7+1, end=wn*7 */}}
+          {{ $start := add (mul (sub $wn 1) 7) 1 }}
+          {{ $end := mul $wn 7 }}
+
+          <div class="mb-8">
+            <!-- Week headings forced to white -->
+            <h2 id="week-{{ $wn }}" class="mb-3 text-2xl font-bold text-white">
+              Week {{ $wn }}
+            </h2>
+            <ul class="prose dark:prose-invert">
+          {{ $s.Set "currentWeek" $wn }}
+        {{ end }}
+
+        <li>
+  <!-- One, single anchor. URL only in href. Text = Day + optional Date -->
+  <a href="{{ $p.RelPermalink }}">
+    Day {{ $w }}{{ with $p.Date }}: {{ time.Format "Monday, January 2, 2006" . }}{{ end }}
+  </a>
+</li>
+      {{ end }}
+
+      {{ if $hasPages }}
+            </ul>
+          </div>
+      {{ end }}
+    </section>
+  </article>
+{{ end }}

@@ -21,8 +21,8 @@ unsafe = true  # allow raw HTML in Markdown (for custom embeds)
     weight = 1
 
   [[menu.main]]
-    name = "Ten Weeks"
-    url = "/ten-weeks/"
+    name = "Eleven Weeks"
+    url = "/eleven-weeks/"
     weight = 2
 
   [[menu.main]]
@@ -43,3 +43,4 @@ unsafe = true  # allow raw HTML in Markdown (for custom embeds)
   showDate = false
   showDateUpdated = false
   showReadingTime = false
+  invertPagination = true
