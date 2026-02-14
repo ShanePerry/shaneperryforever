@@ -17,7 +17,7 @@ comments = true
 ### 9:00 AM
 West Chester Hospital. The attending doctors—Froula, Sohail, and Sarosh—reduced sedation to see if Shane would regain consciousness. They said it caused his ICP to spike. It increased to 30. Tiffany, the RN, was very attentive. She saw the spike and went and stood beside the doctors and signaled to the vital sign monitors. They asked for consent to do a central line for an IV into his chest to allow stronger medications to be delivered to reduce the ICP. I asked if it was the same procedure that I had signed for when we arrived—the port in the neck. Doctor Froula said no; fortunately, that wasn’t done and it was an advantage because Shane’s head needed to be turned to the right to keep pressure off the area where the skull was removed. A port in the neck would have interfered with that. 
 
-Shane’s entire head swelled more, with the left side protruding the most. The scalp was stretched tight and his pulse was underneath the tight skin. His appearance changed significantly, in a graphic and unsettling way. Andrew Harkess sat with us as we waited for the medications to reduce the ICP.
+Shane’s entire head swelled more, with the left side protruding the most. The scalp was stretched tight and his pulse was visible underneath the tight skin. His appearance changed significantly, in a graphic and unsettling way. Andrew Harkess sat with us as we waited for the medications to reduce the ICP.
 
 ### 10:00 AM
 The ICP decreased and hovered around 20. Other tests showed that heart attack, stroke, blood clot, aneurysm, seizure, and arterial blockages had been ruled out. The root cause of his collapse was unclear.
