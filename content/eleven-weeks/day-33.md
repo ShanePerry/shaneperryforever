@@ -41,8 +41,8 @@ If you want to help us pray for something these are our main concerns. We have b
 3. Please help us Thank Jehovah!! 
 
 
-Private:
-Shirley said he got to the bathroom one time by himself when they went to help him.
+
+Shirley said he got up to use the restroom one time by himself. When they went to walk with him he had already gotten there on his own.
 
 “You Tell them I can't do therapy. I'm gonna sleep.”
 

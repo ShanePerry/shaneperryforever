@@ -155,7 +155,7 @@ S-That would be so much
 
 
 
-Private:
+
 Using a stimulant medication to help get him energy for therapy.
 Will request the psychiatrist to see him starting Monday.
 

@@ -50,7 +50,6 @@ If you want to help us pray for something these are our main concerns. We have b
 
 
 
-Private story, just for family:
 After dinner he got tired. We told him to sleep but he asked Betty to keep talking. He said,
 “I can't fall asleep, I gotta stay awake, bonehead.” 😅
 

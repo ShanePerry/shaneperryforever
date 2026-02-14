@@ -54,7 +54,7 @@ If you want to help us pray for something these are our main concerns. 💓
 
 
 
-Private:
+
 Dr Seliger &amp; Hall started antidepressant to help with motor recovery, energy and to prevent low mood.
 
 Shane said he remembered the brothers (therapists) and he tries to help them. And theres the one who helps him put stuff into his mind.

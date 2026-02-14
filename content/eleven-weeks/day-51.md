@@ -50,7 +50,7 @@ If you want to help us pray for something these are our main concerns. 💓
 3. Please help us Thank Jehovah!
 
 
-Private:
+
 Shane remembered putting earplugs in his pocket 
 
 He noticed that today Leah wore the black mask and I wore a white mask. He pointed to Leah's black mask said “You wore that before”

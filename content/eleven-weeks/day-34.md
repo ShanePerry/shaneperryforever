@@ -49,7 +49,7 @@ If you want to help us pray for something these are our main concerns. We have b
 3. Please help us Thank Jehovah!!
 
 
-Private:
+
 The aide couldn't get the bed to move at an angle, to allow the chair to get by. Shane locked the wheelchair and shoved the bed with his legs. 
 
 I couldn't remember the name of the islands we saw in Puerto Rico. Leah told me later, Icacos.

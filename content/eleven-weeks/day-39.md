@@ -47,7 +47,7 @@ If you want to help us pray for something these are our main concerns. We have b
 2. Please help the therapists to show Shane ways to prevent falls in the future
 3. Please help us Thank Jehovah!!
 
-Private:
+
 S-Hi! How are you? When are you coming? 
 V-Im coming at 12:00. I took yesterday off. I didn't see you and I was sad.
 S-Its ok, you can take the week off if you need to.

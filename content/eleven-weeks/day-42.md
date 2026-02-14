@@ -58,5 +58,5 @@ If you want to help us pray for something these are our main concerns. We have b
 2. Please help the therapists to show Shane ways to prevent falls in the future
 3. Please help us Thank Jehovah!!
 
-Private:
+
 He pointed to the picture of the Port-o-John in Nicaragua Lago Apanas and said, “hehe, pee”

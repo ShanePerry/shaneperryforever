@@ -46,7 +46,7 @@ If you want to help us pray for something these are our main concerns. We have b
 
 
 
-Private:
+
 Now that both eyes open more, he told us that 
 If I close my left eye, I can see well, if I close my right eye, I can see well. But it I open the both…it's blurry. 
 

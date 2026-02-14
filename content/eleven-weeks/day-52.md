@@ -69,6 +69,6 @@ If you want to help us pray for something these are our main concerns. 💓
 
 
 
-Private 
+
 Speed of the neurotransmitter. 2.5mg half a tablet. Will be stopped before going home.
 Also medication for muscle recovery and maintaining mood.

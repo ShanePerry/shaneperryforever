@@ -80,7 +80,7 @@ If you want to help us pray for something these are our main concerns. We have b
 3. Please help us Thank Jehovah!!
 
 
-Private:
+
 He said he helped the lady in physical therapy out for about an hour.
 
 He asked how my day was. 

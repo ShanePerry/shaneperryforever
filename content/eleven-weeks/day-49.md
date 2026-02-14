@@ -53,7 +53,7 @@ If you want to help us pray for something these are our main concerns. 💓
 
 
 
-Private:
+
 
 For example I told him again about Kristie and Troy, and that poor Troy had a heart attack. Because I wanted to tell him the coincidence that our dear friends Aaron &amp; Grace Hardesty from Patterson are friends of theirs. And they are with her right now.
 

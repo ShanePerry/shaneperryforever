@@ -46,7 +46,7 @@ If you want to help us pray for something these are our main concerns. We have b
 
 
 
-Private:
+
 This just shows me how bad it is.
 You want me to do all 8 of them…I'll try.
 

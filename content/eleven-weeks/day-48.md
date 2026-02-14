@@ -48,6 +48,6 @@ If you want to help us pray for something these are our main concerns. 💓
 2. Please ask Jehovah to guide the Doctors’ plans for Shane's next surgery.
 3. Please help us Thank Jehovah for the moments of joy and laughter!
 
-Private 
+
 Ear plugs - big ones
 iPad - big papa

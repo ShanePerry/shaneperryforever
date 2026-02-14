@@ -56,5 +56,5 @@ If you want to help us pray for something these are our main concerns. 💓
 3. Please help us Thank Jehovah
 
 
-Private
+
 In PT Shane started talking about the Watchtower as he was going over the hurdles. The therapists didn't understand what Watchtower is. But we did.
