@@ -36,7 +36,7 @@ https://wol.jw.org/en/wol/d/r1/lp-e/101990288
 
 He said they learned in traumatic events, you don't always get good options. You may be forced to choose the least bad option of several bad options. The key is to not look too far in the future or too far in the past. Look for the next reasonable step. Sometimes the next reasonable step is another prayer.
 
-We read Philippians 4:4–7 while we waited for the surgeons to come back. Philippians is a formula for keeping joy in the worst of circumstances. The formula starts in verse 8 and works its way upwards through the verses.
+We read Philippians 4:4–8 while we waited for the surgeons to come back. Philippians is a formula for keeping joy in the worst of circumstances. The formula starts in verse 8 and works its way upwards through the verses.
 
 Verse 8 — "continue considering these things." Actively manage your thoughts to stay on Jehovah and the good things he is doing.
 
