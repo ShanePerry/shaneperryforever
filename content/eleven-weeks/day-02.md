@@ -78,4 +78,4 @@ Nurse shift change. They ask me to leave the unit and go back to the waiting roo
 Back with Shane. I sang him a few original songs.
 
 ### 8:30 PM
-Visiting hours ended. I wanted to stay the night there on the bench. Someone asked me what Shane would want me to do. I said that question was unfair and of course that Shane would say I should go home to sleep. They drove me home. Vicki Dellinger an infirmary nurse managed to stay in the room a little longer.
+Visiting hours ended. I wanted to stay the night there on the bench. No visitors were supposed to stay overnight in the hospital. One of my friends asked me what Shane would want me to do. I said that question was unfair and of course that Shane would say I should go home to sleep. They drove me home. Vicki Dellinger an infirmary nurse managed to stay in the room a little longer.
