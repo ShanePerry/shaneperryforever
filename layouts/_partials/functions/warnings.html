@@ -1,0 +1,21 @@
+{{/* Safe override for Congo warnings partial.
+     This partial is sometimes called with . = .Site (siteWrapper).
+     In some Hugo versions, .Author is not available on siteWrapper, so we guard carefully.
+*/}}
+
+{{- $site := . -}}
+
+{{/* Check both possible locations for author info */}}
+{{- $authorFromSite := $site.Author -}}          {{/* top-level [author] in hugo.toml */}}
+{{- $authorFromParams := $site.Params.author -}} {{/* [params.author] in hugo.toml    */}}
+{{- $author := or $authorFromSite $authorFromParams -}}
+
+{{/* If you actually want to render a warning or author info, do it conditionally.
+     Keeping this partial silent when data is missing prevents build failures.
+*/}}
+{{- if $author -}}
+  {{/* Example usage (commented out):
+  {{ $authorName := or $author.name $author.Name }}
+  <div class="visually-hidden">Author configured: {{ $authorName }}</div>
+  */}}
+{{- end -}}
