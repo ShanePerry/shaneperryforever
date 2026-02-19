@@ -39,6 +39,9 @@ unsafe = true  # allow raw HTML in Markdown (for custom embeds)
   enableSearch = false
   customCSS = ["css/custom.css"]
 
+[params.author]
+name = "Vanessa Gail Perry"
+
 [params.article]
   showDate = false
   showDateUpdated = false
