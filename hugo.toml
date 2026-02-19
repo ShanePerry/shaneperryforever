@@ -42,6 +42,9 @@ unsafe = true  # allow raw HTML in Markdown (for custom embeds)
 [params.author]
 name = "Vanessa Gail Perry"
 
+[author]
+name = "Vanessa Gail Perry"
+
 [params.article]
   showDate = false
   showDateUpdated = false
