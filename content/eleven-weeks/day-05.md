@@ -35,7 +35,7 @@ Marc and Anita Crowder visited. Marc had a scripture for me.
 That was Jehovah’s thought on Shane's condition.
 
 ### 1:00 PM
-Chris Fairley helped us track the trend of the hemoglobin decrease. He said EPO can be used to raise hemoglobin and we could present it as a step to prevent a crisis, even if he is not actually in a crisis right now. We showed the chart to the NP and asked if Shane could start on EPO. They said he wasn’t in a blood crisis. I said it was true, and asked if we could please give Shane an advantage now and keep him out of a crisis even after we leave ICU, by doing something boost his hemoglobin.
+Chris Fairley helped us track the trend of the hemoglobin decrease. He said EPO could be used to raise hemoglobin and we could present it as a step to prevent a crisis, even if he is not actually in a crisis right now. We showed the chart to the NP and asked if Shane could start on EPO. They said he wasn’t in a blood crisis. I said it was true, and asked if we could please give Shane an advantage now and keep him out of a crisis even after we leave ICU, by doing something boost his hemoglobin.
 
 ### 3:00 PM
 Shane moved his head a few times and his left arm one time. That felt promising. The nurse said that involuntary movements are a neutral sign because even someone who doesn’t regain consciousness will still make involuntary movement. What the doctors and nurses look for are purposeful movement; response to pain, grabbing the bed rails, squeezing your hand, also doing anything on command. If they see that, they raise the GCS score, because it’s a better indicator that the patient will come out of the coma. Shane was still GCS 3.
