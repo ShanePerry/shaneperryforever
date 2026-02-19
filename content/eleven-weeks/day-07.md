@@ -19,7 +19,7 @@ June 23 2024 Sunday
 Shane was still a GCS 7. He was moving his left side more, and nothing on the right side.
 
 ### 10:00 AM
-Olivia arrived. The airbnb and the car rental hadn’t worked out well. We asked if there was any chance for last minute accommodation. Josh and Justin got it worked out.
+Olivia arrived. The airbnb and the car rental didn’t work out well. We asked if there was any chance for last minute accommodation. Josh and Justin got it worked out.
 
 ### 2:00 PM
 Cecibel Loff and I did a massage for Shane. When we took off his left sock we could see a pressure wound had formed on the outside and sole of his left foot. It was a large blister. Wound care came and dressed it. But his feet kept hitting the foot of the bed and eventually the blister opened. They had already extended the foot of the bed to the maximum. And they had even looked into getting a longer bed, but the ICU room would not fit a larger bed.

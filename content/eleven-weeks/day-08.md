@@ -16,7 +16,7 @@ comments = true
 
 June 24 2024 Monday
 ### 9:00 AM
-Shane was moving his left side more, but nothing moved on the right side yet. He had started bending his left leg at the knee letting it hang off the bed, likely to get pressure off the wound on his left foot. He couldn’t pick the leg back up and rest it on the bed again. So I spent hours with him pushing his leg off the bed and me lifting it back up onto the bed.
+Shane was moving his left side more, but nothing moved on the right side yet. He had started bending his left leg at the knee letting it hang off the bed, likely to get pressure off the wound on his left foot. He couldn’t pick the leg back up and rest it on the bed again. So we spent hours with him pushing his leg off the bed and me lifting it back up onto the bed.
 
 ### 10:00 AM
 I put up pictures of Shane in his suit at Bethel above the head of his bed. I thought it would help if the staff could see Shane as he was before the accident. And I put other pictures and a poster of a Caleb video on the other walls, so that Shane could see familiar things whenever he opened his eyes.

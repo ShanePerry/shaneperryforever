@@ -35,5 +35,5 @@ Betty went home with Debi to rest.
 
 
 ### 8:30 PM
-I closed the room door and sang <a href="https://www.jw.org/en/library/music-songs/original-songs/inspired-by-your-wonders/?content=video>
+I closed the room door and sang <a href="https://www.jw.org/en/library/music-songs/original-songs/inspired-by-your-wonders/?content=video">
 Inspiried by Your Wonders</a> softly until visiting hours ended. As I left that night the nurses said they heard it. I felt embarrassed but they said it didn’t bother anyone.
