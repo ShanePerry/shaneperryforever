@@ -14,7 +14,11 @@ comments = true
 +++
 
 ### 1:00 AM
-I went for the bag of Skittles at the family lounge but it was empty. Justin said he had nervously eaten the whole bag. I told them that I was relieved that Shane and I had a very good day. I did everything he asked and he did everything I asked. I realized as I sat there through the night that if we had been impatient or irritated with each other during the day, I would have faced such regret that night. Fortunately, it had been a very good day.
+I went for the bag of Skittles at the family lounge but it was empty. Justin said he had nervously eaten the whole bag. 
+
+I asked Justin to contact the Service Department and let them know that Shane wouldn't make his Convention Talk in Richmond, VA in two weeks. He asked me if I was sure, because he knew how much Shane was looking forward to the talk on John. I said I didn't see it working any other way.
+
+I told them that I was relieved that Shane and I had a very good day. I did everything he asked and he did everything I asked. I realized as I sat there through the night that if we had been impatient or irritated with each other during the day, I would have faced such regret that night. Fortunately, it had been a good day.
 
 ### 4:00 AM
 The intracranial pressure continued to rise. The doctors recommended a hemi-cranectomy. A large part of the skull would be removed on the left side, the side opposite to the fracture. The scalp would be stapled back into place and that would make room for the brain to swell over the next few days. The removed piece of skull would be stored at the hospital and put back in place after many weeks of healing. If the missing skull could not be reused it would be replaced by a 3D printed carbon material. They would let me know which option was chosen after the surgery. I asked for a minute to pray. The doctor looked concerned about how long that might take. I said I wouldn’t delay. After the prayer I asked them what are the risks if no surgery is done. They said the swelling would continue until it suffocated the brain and life functions ceased. I also asked them to explain their steps to manage blood loss. After that I signed the consent for the surgery.

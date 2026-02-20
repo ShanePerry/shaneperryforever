@@ -29,7 +29,7 @@ Tiffany the nurse said if there was any response to be gotten out of Shane, she 
 Some areas around the metal staples were less red and inflamed. It showed some healing. Even if it was only on the surface, it was a start.
 
 ### 10:00 AM
-Betty called me. She said she woke up at 7:00am and Bill told her to find a caregiver and that she should go help Shane. I was speechless. No one knew about my early morning prayer except me and Jehovah. She said Debi Dotson told her she would drop everything and drive her to New York. She asked how soon she should come, I said as soon as possible to prevent any of these fragile details from slipping away. It felt like Jehovah had just made eye contact.
+Betty called me. She said she woke up at 7:00am and Bill told her to find a caregiver and that she should go help Shane. I was speechless. No one knew about my early morning prayer except me and Jehovah. She said Debi Dotson told her she would drop everything and drive her to New York. She asked how soon she should come, I said to come as soon as possible to prevent any of the fragile plan from falling apart. It felt like Jehovah had just made eye contact.
 
 ### 3:00 PM
 Hemoglobin 8.7. We had a visit from Chris Fairley from HLC:
