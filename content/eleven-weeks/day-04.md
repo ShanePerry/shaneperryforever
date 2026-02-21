@@ -14,7 +14,7 @@ comments = true
 +++
 
 ### 4:00 AM
-I woke up early. I asked Jehovah, if Shane was going to need help with speech again, and if it could help having the person who taught him to speak in the first place, Betty, could He touch the heart of Bill, as a father, to make a sacrifice and accept any help she could find. The next time we could explain it to Shane, wouldn’t he be pleased to hear his dad made a huge unselfish sacrifice for him. I didn't tell anyone about the prayer.
+I woke up early. I asked Jehovah, if Shane was going to need help with speech again, and if it could help having the person who taught him to speak in the first place, Betty, could He touch the heart of Bill, as a father, to make a sacrifice and accept any caregiver she could find. The next time we could explain it to Shane, wouldn’t he be pleased to hear that his dad made a huge unselfish sacrifice for him. I didn't tell anyone about the prayer.
 
 ### 9:00 AM
 Shane was completely off sedation. He was still 100% on the ventilator. The ICP at 13 was an improvement and all other vitals were within range. But he made no response, so GCS was at a 3.

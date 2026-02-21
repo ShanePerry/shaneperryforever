@@ -1,9 +1,9 @@
 +++
-title = "Day 10 — Tuesday, June 25, 2024"
+title = "Day 10 — Wednesday, June 26, 2024"
 slug = "day-10"
-date = 2024-06-25T19:00:00-05:00
-description = "Day 10 of Eleven Weeks — June 25, 2024"
-summary = "Daily update for June 25, 2024"
+date = 2024-06-26T19:00:00-05:00
+description = "Day 10 of Eleven Weeks — June 26, 2024"
+summary = "Daily update for June 26, 2024"
 weight = 10
 url = "/eleven-weeks/day-10/"
 draft = false
@@ -13,14 +13,50 @@ toc = false
 comments = true
 +++
 
-### 7:00am
-The trach & peg surgeries were started and finished before I arrived.
-
 ### 9:00am
-The surgeries were a success. Shane was off of the breathing tubes and O2 was supplied via the tube in his throat. All feeding would be via the peg directly into his stomach instead of the other set of tubes passing down his throat. He was sleeping, but he looked much more relaxed than we’d seen him yet and his face began showing more of his natural expressions.
+He sat up in the chair. He nodded his head when they asked if he was ok. They are using the ventilator while they transition him to sitting up. Also they turned it on in the early morning. He also started moving his right toes. Shane moved his right arm and his right toes.
 
-### 12:00pm
-Shane squeezed my hand for long periods of time. He opened his eyes again and again. He was awake for short bursts. As he looked around I explained that this was West Chester hospital and that he had an accident, but that he was getting better. I also told him that the Celtics won the playoffs. I didn’t see quite the reaction I expected, so I figured I’d keep telling him each day until it sunk in. He seemed sleepier during that day than the day before. He had another good test without the ventilator but he did seem more tired because he was doing the breathing on his own. They said after a few more successful breathing tests, they could fit him for a helmet and he can be moved out of the bed to a recliner, which will help him avoid pressure injuries.
+### 11:00am 
+Brother Winder visited, Eric brought him. I took him back and Shane instantly recognized him although he had a mask on. Shane gave him a thumbs up. He said a prayer with us. Shane immediately closed his eyes. At the end, he couldn’t say Amen, so he gave thumbs up again. Brother Winder asked if we had been surprised at the response we had gotten as far as support and help. I said yes. He said it’s directly in proportion to how much this hurt Jehovah. His Spirit gets stirred and it moves people who are receptive to it to be supportive.
+
+***Psalm 18:6-18
+In my distress I called on Jehovah,
+To my God I kept crying for help.
+From his temple he heard my voice,
+And my cry to him for help reached his ears.
+
+7 Then the earth began to shake and rock;
+The foundations of the mountains trembled
+And shook back and forth because he had been angered.
+
+8 Smoke ascended from his nostrils,
+And a consuming fire came from his mouth;
+Glowing coals blazed from him.
+
+9 He made the heavens bend as he descended,
+And thick gloom was beneath his feet.
+
+10 He rode on a cherub and came flying.
+
+13 Then Jehovah began to thunder in the heavens;
+The Most High made his voice heard
+He reached down from on high;
+He took hold of me and pulled me from deep waters.***
+
+He asked, “Have you felt like Jehovah has pulled you from deep waters?”
+
+I said “Yes, I’ve had a calm feeling that is hard to put into words, even at times when I don’t think anyone could expect to be calm. And I feel like Jehovah has kept my mind from unraveling.” 
+
+He asked, "Why is He helping you and Shane like this?"
+
+***Psalm 18:19
+He rescued me because he was pleased with me.***
+
+***Psalm 18:25
+With someone loyal you act in loyalty.***
+
+### 2:00pm 
+Shane reached out his hand and spread his fingers. I put my hand in his. He squeezed it briefly and let it go. He spread out his hand again. I put mine in it again, but instead of squeezing it he turned his palm over to dump my hand out of his. I smiled and when he spread his palm out again, I told Betty to put her hand in his. He gripped her hand for a few minutes. It was his clear way of saying he realized his mom was there and that he appreciated her. 
 
 ### 5:00pm
-Betty decided she would stay until Saturday. Bill was doing well with the caregiver and Kevin’s help. Betty was an unbelievable support for me. She had many years of experience as a nurse and was quick to notice and point out any positive improvements. She wasn’t overly emotional, just practical and matter-of-fact. She also made me feel like she trusted my decisions. That meant so much to me because I was not used to making the decisions on my own, especially very serious ones. I was far more comfortable being on a team with Shane as the head. He was easy to follow and easy to please. So feeling like I was at the helm of the ship was unsettling. But Jehovah filled the missing pieces in. He gave me a calm mind with clear thoughts. Also, whenever there was a choice for me to make, I asked him to make me feel an unbreakable calm if we had arrived at a reasonable decision. That unmistakable peace helped me know when He had responded. I steered the ship, with his help.
+Gary and Christina Blackburn visited. Gary and I were standing on either side of Shane talking. We both saw him left his shoulders off the bed and point his left hand toward the trach. He couldnt reach the trach, but he got a hold of the towel the nurse rolled up to keep his head to one side. He dragged he towel out and laid it beside him. It took him so much effort to move like that. He leaned back and seemed exhausted. Gary and I wondered if what he was actually trying to remove was the trach. We told the nurse. The doctors decided to put a restraint on the left arm to prevent him from pulling the trach.

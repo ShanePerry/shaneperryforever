@@ -1,10 +1,10 @@
 +++
-title = "Day 09 — Monday, June 24, 2024"
+title = "Day 09 — Tuesday, June 25, 2024"
 slug = "day-09"
-date = 2024-06-24T19:00:00-05:00
-description = "Day 09 of Eleven Weeks — June 24, 2024"
-summary = "Daily update for June 24, 2024"
-weight = 9
+date = 2024-06-25T19:00:00-05:00
+description = "Day 09 of Eleven Weeks — June 25, 2024"
+summary = "Daily update for June 25, 2024"
+weight = 09
 url = "/eleven-weeks/day-09/"
 draft = false
 tags = ["Eleven Weeks", "Memories"]
@@ -13,22 +13,14 @@ toc = false
 comments = true
 +++
 
+### 7:00am
+The trach & peg surgeries were started and finished before I arrived.
+
 ### 9:00am
-Shane was moving his left side more, but nothing moved on the right side yet. He had started bending his left leg at the knee letting it hang off the bed, likely to get pressure off the wound on his left foot. He couldn’t pick the leg back up and rest it on the bed again. So I spent hours with him pushing his leg off the bed and me lifting it back up onto the bed.
+The surgeries were a success. Shane was off of the breathing tubes and O2 was supplied via the tube in his throat. All feeding would be via the peg directly into his stomach instead of the other set of tubes passing down his throat. He was sleeping, but he looked much more relaxed than we’d seen him yet and his face began showing more of his natural expressions.
 
-### 10:00am
-I put up pictures of Shane in his suit at Bethel above the head of his bed. I thought it would help if the staff could see Shane as he was before the accident. And I put other pictures and a poster of a Caleb video on the other walls, so that Shane could see familiar things whenever he opened his eyes.
+### 12:00pm
+Shane squeezed my hand for long periods of time. He opened his eyes again and again. He was awake for short bursts. As he looked around I explained that this was West Chester hospital and that he had an accident, but that he was getting better. I also told him that the Celtics won the playoffs. I didn’t see quite the reaction I expected, so I figured I’d keep telling him each day until it sunk in. He seemed sleepier during that day than the day before. He had another good test without the ventilator but he did seem more tired because he was doing the breathing on his own. They said after a few more successful breathing tests, they could fit him for a helmet and he can be moved out of the bed to a recliner, which will help him avoid pressure injuries.
 
-### 11:00am
-The nurses aides said they were going to give Shane a bed bath and asked me to leave. When I came back they said, “We noticed that Shane didn’t have a beard in that picture you put up, so we shaved him!” I looked at Shane and the beard that he had grown out for 6 months was gone. I laughed inside. Hopefully by the time he would care about it, the beard would be back.
-
-### 1:00pm
-Dr. Garret LaSalle sent me a message to ask if the ICU doctors would consider delaying the trach procedure. His idea was to see if Shane could make the leap to removing the tubes and breathing room air directly, without the need to open up the trach in his neck. The NP and RN said they had the trach and peg scheduled for the next morning, Tuesday, and had come with the consent form. I asked to consult with the doctors about Dr. LaSalle’s comment. They said the trach would give Shane more immediate freedom of movement. Then they would be able to sit him up in a chair and there would be less risk of pneumonia with the trach than the breathing tubes. And that patients make marked improvement in consciousness when the tubes are out. Betty was sitting beside me so I asked her thoughts, she was an RN for years. She said that I could make the decision and she would support it. I told the nurses that the advantages they mentioned sounded very good and we would likely take that approach as scheduled. But because Shane volunteered with a medical team, many people were very interested in his progress. So we were weighing their thoughts and comments about the trach procedure too. I asked if we could please consult with the ICU doctors directly. The NP and RN said that the recommendations they were making are exactly what the doctors have advised otherwise they wouldn’t have said it. I said I believed that and at the same time, as a family, we needed to be confident afterwards that we had considered carefully every advantage that could be given to Shane, so we would still like to ask for a consultation with the doctors before signing consent.
-
-### 2:00pm
-Consultation with attending Dr. Froula and Dr. Sohail. We stood at the nurses station with Dr. LaSalle joined via video conference. We asked if it could benefit Shane to give him a few more days before doing the tracheostomy to see if he can improve enough to not need breathing assistance at all. They said with his current progress in levels of consciousness, they could not guarantee 100% that he wouldn’t enter any crisis in the short term. That is why they wanted to guarantee immediate access to his airway with the trach. Dr. LaSalle had more questions that they answered. The ICU doctors stayed with the recommendation to do the trach as scheduled.
-
-I prayed after the consultation and asked Jehovah to help me ask any more questions that were relevant to ask or to feel confident to sign consent if that was a reasonable step. I finished the prayer and my next thought was that it is reasonable to follow the recommendation of the doctors that have the patient in sight and who frequently see these types of situations. I signed consent for the trach and peg and they scheduled it for the next morning.
-
-### 9:30pm
-I went back to Warwick
+### 5:00pm
+Betty decided she would stay until Saturday. Bill was doing well with the caregiver and Kevin’s help. Betty was an unbelievable support for me. She had many years of experience as a nurse and was quick to notice and point out any positive improvements. She wasn’t overly emotional, just practical and matter-of-fact. She also made me feel like she trusted my decisions. That meant so much to me because I was not used to making the decisions on my own, especially very serious ones. I was far more comfortable being on a team with Shane as the head. He was easy to follow and easy to please. So feeling like I was at the helm of the ship was unsettling. But Jehovah filled the missing pieces in. He gave me a calm mind with clear thoughts. Also, whenever there was a choice for me to make, I asked him to make me feel an unbreakable calm if we had arrived at a reasonable decision. That unmistakable peace helped me know when He had responded. I steered the ship, with his help.

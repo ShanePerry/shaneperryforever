@@ -1,4 +1,3 @@
-
 +++
 title = "Day 08 — Monday, June 24, 2024"
 slug = "day-08"
