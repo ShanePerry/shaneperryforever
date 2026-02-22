@@ -27,15 +27,3 @@ _To contribute a memory, use the submission form below. Submissions may be light
 
   ![Caption](/images/memories/filename.jpg)
 
-
-## A Memory of Shane
-
-**From:** Anonymous-Contributed at Shane's Memorial  
-**Date:** 2024-08-28 Saturday
-
-
-I went with Shane to a convention when we were single serving in Brooklyn. I saw a girl I really wanted to talk to but I was intimidated. Shane said, “Dude, it's not hard.”
-
-He walked up to her and started a conversation, then I joined, and he slowly backed out and left us talking.
-
-She and I are still married today.
