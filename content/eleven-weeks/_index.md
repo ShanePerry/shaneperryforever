@@ -6,5 +6,3 @@ showReadingTime = false
 +++
 
 Welcome to Eleven Weeks. This section contains a 73-day walk through of Shane's accident, recovery and final moments.
-
-_Tip: Click a day to read the full entry._

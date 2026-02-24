@@ -1,0 +1,40 @@
+﻿{{ define "main" }}
+<section class="page list" style="color:#fff;">
+  <header class="page-header">
+    <h1 class="page-title">{{ .Title }}</h1>
+  </header>
+
+  {{ if .Content }}
+  <div class="intro prose-like" style="margin-top:1rem;">
+    <div class="flow-container">
+      {{ .Content }}
+    </div>
+  </div>
+  {{ end }}
+
+  <div class="list-content" style="margin-top:1.25rem;">
+    <ul class="post-list" style="list-style:none;padding:0;margin:0;">
+      {{ range .Pages.ByTitle }}
+        <li style="margin:0 0 1rem 0;">
+          <a href="{{ .RelPermalink }}">
+            <span class="post-title" style="display:inline-block;">
+              {{ .Title }}
+            </span>
+
+            <p class="post-meta"
+              style="font-size:.9rem;opacity:.85;margin-top:.25rem;color:#AEB3C6;font-weight:400;">
+
+              {{ with .Params.author }}{{ . }}{{ end }}
+
+              {{ if and .Params.author .Date }} • {{ end }}
+
+              {{ with .Date }}{{ .Format "January 2, 2006" }}{{ end }}
+
+            </p>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+</section>
+{{ end }}

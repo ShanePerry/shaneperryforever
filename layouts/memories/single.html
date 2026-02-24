@@ -1,0 +1,67 @@
+﻿{{ define "main" }}
+<article class="page single memories" style="color:#fff;">
+  <header class="page-header">
+    <h1 class="page-title">{{ .Title }}</h1>
+
+
+<!-- ⬇️ TOP NAV: now directly under the title -->
+    <nav class="memory-topnav" aria-label="Memory navigation (top)" style="margin-top:.25rem;">
+      <a href="{{ .CurrentSection.RelPermalink }}">← Back to Memories</a>
+    </nav>
+  </header>
+
+  <section class="page-content" style="margin-top:1rem;">
+    {{ .Content }}
+  </section>
+
+<!-- Author/date moved BELOW the content -->
+    
+  <p class="page-subtitle" 
+    style="margin-top:.25rem;font-size:.95rem;opacity:.85;color:#fff;">
+    {{ with .Params.author }}{{ . }}{{ end }}
+    {{ with .Date }}
+      <span style="margin-left:.15rem; font-size:.95rem; opacity:.85;color:#fff;">
+      • {{ .Format "January 2, 2006" }}
+      </span>
+    {{ end }}
+  </p>
+
+
+
+
+<!-- Bottom pager: Left = previous (higher #), Right = next (lower #) -->
+    {{ $items := slice }}
+    {{ range .CurrentSection.RegularPages }}
+      {{ $m := findRE "[0-9]+" .File.BaseFileName }}
+      {{ $n := 0 }}
+      {{ if gt (len $m) 0 }}{{ $n = (index $m 0) | int }}{{ end }}
+      {{ $items = $items | append (dict "n" $n "p" .) }}
+    {{ end }}
+    {{ $items = sort $items "n" "desc" }}
+
+    {{ $.Scratch.Set "idx" -1 }}
+    {{ range $i, $it := $items }}
+      {{ if eq ($it.p) $ }}
+        {{ $.Scratch.Set "idx" $i }}
+      {{ end }}
+    {{ end }}
+    {{ $i := $.Scratch.Get "idx" }}
+
+    <nav class="memory-pager" aria-label="Memory navigation (bottom)" style="margin-top:1.25rem; display:flex; justify-content:space-between;">
+      <div class="pager-left">
+        {{ if and (ne $i -1) (gt $i 0) }}
+          {{ $prev := index $items (sub $i 1) }}
+          <a href="{{ $prev.p.RelPermalink }}">← {{ $prev.p.Title }}</a>
+        {{ end }}
+      </div>
+      <div class="pager-right" style="text-align:right;">
+        {{ if and (ne $i -1) (lt (add $i 1) (len $items)) }}
+          {{ $next := index $items (add $i 1) }}
+          <a href="{{ $next.p.RelPermalink }}">{{ $next.p.Title }} →</a>
+        {{ end }}
+      </div>
+    </nav>
+        
+</article>
+{{ end }}
+

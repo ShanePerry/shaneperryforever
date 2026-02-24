@@ -4,12 +4,6 @@
    Background is already #1E293B; now define copy colors
    ========================== */
 
-
-/* ---- Base paragraph/body copy ---- */
-body, p {
-  color: rgb(100, 116, 139); /* #CBD5E1 */
-}
-
 /* Prose (Congo uses @tailwind/typography) */
 .prose, .prose :where(p) {
   color: rgb(100 116 139) !important; /* ensure prose respects paragraph color */
@@ -166,4 +160,126 @@ a[href="#the-top"]:hover span,
 a[href="#the-top"]:hover svg {
     color: #ffffff !important;
     fill: #ffffff !important;
+}
+
+/* Restore normal paragraph spacing for memory pages */
+.page.single p,
+.page-content p,
+.list-content p {
+  margin-bottom: 1rem !important;
+  line-height: 1.6;
+}
+
+/* ---- Memories intro: Tailwind-like prose styling without Tailwind ---- */
+
+/* Make intro text slate-500-ish and smaller than body */
+.intro.prose-like,
+.intro.prose-like p {
+  color: #64748b !important;      /* slate-500 tone */
+  font-size: 0.95rem;             /* smaller body for intro */
+  line-height: 1.65;
+}
+
+/* Paragraph rhythm similar to Tailwind Typography */
+.intro.prose-like p {
+  margin-top: 1.25em;
+  margin-bottom: 1.25em;
+}
+
+/* First child margin (mimic: .prose div.min-w-0.max-w-prose > *:first-child) */
+.intro.prose-like .flow-container > *:first-child {
+  margin-top: 0.75rem;
+}
+
+/* Add space after the intro block before the memory list */
+.intro.prose-like {
+  margin-bottom: 2rem;   /* adjust to 1.5rem or 2.5rem if you want more/less */
+}
+
+/* Keep the H1 on the page white and bold (as you had) */
+.page.list .page-title {
+  color: #fff !important;
+}
+
+/* Ensure list-row links stay white and readable */
+.page.list .post-list a {
+  color: #fff !important;
+  text-decoration: none;
+}
+
+/* Make the author line slightly smaller and softer */
+.page.list .post-list .post-meta {
+  font-size: 0.9rem;
+  opacity: 0.85;
+  color: #fff !important;
+}
+
+/* --- Make Memories H1 match the Eleven Weeks H1 --- */
+/* Tailwind equivalents:
+   text-4xl (36px / 2.25rem, line-height 2.5rem),
+   font-extrabold (800),
+   mt-0, mb-8 (margin-bottom: 2rem),
+   text-neutral-900 (light), dark:text-neutral (dark) */
+
+.page.list .page-title,
+.page.single .page-title {
+  font-size: 2.25rem;     /* text-4xl */
+  line-height: 2.5rem;    /* text-4xl default line-height */
+  font-weight: 800;       /* font-extrabold */
+  margin-top: 0;          /* mt-0 */
+  margin-bottom: 2rem;    /* mb-8 */
+  color: #111827;         /* neutral-900 in light mode */
+}
+
+/* Dark mode color (Congo sets a .dark class on <html> when dark) */
+.dark .page.list .page-title,
+.dark .page.single .page-title {
+  /* Tailwind "neutral" in dark contexts is a light neutral foreground.
+     #e5e7eb is Tailwind slate-200-ish; adjust if your palette differs. */
+  color: #e5e7eb;
+}
+
+/* (Optional) If you truly want a fixed 40px line-height like you asked earlier:
+.page.list .page-title,
+.page.single .page-title {
+  line-height: 40px;
+}
+@media (max-width: 640px) {
+  .page.list .page-title,
+  .page.single .page-title {
+    line-height: 1.2;   // prevent clipping on small screens
+  }
+}
+*/
+
+/*Hide footer copyright text*/
+.site-footer .copyright,
+footer .copyright,
+footer p {
+  display: none !important;
+}
+
+
+/* Global body text color override */
+body {
+  color: #AEB3C6 !important;
+}
+
+/* Also override color inside theme wrappers */
+.page-content,
+.prose,
+.single,
+.content,
+p,
+li,
+article {
+  color: #AEB3C6 !important;
+}
+
+/* Match Eleven Weeks text size using rem units (accessible + scalable) */
+.memories .page-content p,
+.memories .page-content li {
+  font-size: 1rem !important;          /* = 16px */
+  line-height: 1.75rem !important;     /* = 28px */
+  color: #AEB3C6 !important;
 }
