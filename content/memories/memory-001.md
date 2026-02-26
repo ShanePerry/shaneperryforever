@@ -10,16 +10,16 @@
 # encouragement
 
 # Keep or edit these fields as needed:
-title = "Dude, It's Not That Hard"
-author = "Anonymous-Contributed At Shane's Memorial"
-date = "2000-07-01"        # option to add date like this: (YYYY-MM-DD)
+title = "White Devil"
+author = "Ernie Martinez"
+date = "2000-01-01"        # option to add date like this: (YYYY-MM-DD)
 tags = ["friends", "funny"]        # option to add tags like this: tags = ["friends", "funny"]
 +++
 
 <!-- Type the memory below. Keep the original wording whenever possible. -->
 
-I went with Shane to a convention when we were single serving in Brooklyn Bethel. I saw a girl I really wanted to talk to but I was intimidated. Shane said, “Dude, it’s not hard.”
+Shane was switched to my congregation in Marble Hill, NY. He asked, "Bro, am I gonna stand out as the only big tall white guy?" I said, "No, you'll be fine. But yea, you'll be the only white guy." 
 
-He walked up to her and started a conversation, then I joined, and he slowly backed out and left us talking.
+His first Sunday, we took the train together to the territory before service. As we came down the platform to the city street, a man in a 4 story building shouted, "Ima kill you, you white devil," and threw an empty beer bottle at Shane. 
 
-She and I are still married today.
+In the chaos we didn't see Shane anymore. We looked behind us and saw him headed back up the staircase to the train, taking the stairs 3 at a time.
