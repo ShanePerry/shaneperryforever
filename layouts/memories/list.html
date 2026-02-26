@@ -14,7 +14,7 @@
 
   <div class="list-content" style="margin-top:1.25rem;">
     <ul class="post-list" style="list-style:none;padding:0;margin:0;">
-      {{ range .Pages.ByTitle }}
+      {{ range sort .Pages "File.Path" "desc" }}
         <li style="margin:0 0 1rem 0;">
           <a href="{{ .RelPermalink }}">
             <span class="post-title" style="display:inline-block;">
