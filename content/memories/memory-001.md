@@ -20,6 +20,6 @@ tags = ["friends", "funny"]        # option to add tags like this: tags = ["frie
 
 Shane was switched to my congregation in Marble Hill, NY. He asked, "Bro, am I gonna stand out as the only big tall white guy?" I said, "No, you'll be fine. But yea, you'll be the only white guy." 
 
-His first Sunday, we took the train together to the territory before service. As we came down the platform to the city street, a man in a 4 story building shouted, "Ima kill you, you white devil," and threw an empty beer bottle at Shane. 
+His first Sunday, me, Shane and another friend took the train together to the territory before service. As we came down the platform to the city street, a man in a 4 story building shouted, "Ima kill you, you white devil," and threw an empty beer bottle at Shane. 
 
-In the chaos we didn't see Shane anymore. We looked behind us and saw him headed back up the staircase to the train, taking the stairs 3 at a time.
+In the chaos we didn't see Shane anymore. We looked behind us and saw him bounding back up the stairs to the train, taking 3 stairs at a time.
