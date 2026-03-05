@@ -25,7 +25,7 @@ There's hardly anything to report for vitals, all good 👍
 
 Up to that moment, Shane hadn't grasped the idea of time. Anything I told him seemed to him like it was happening right then. When I told him that the electric conduit would be installed at Ramapo, he put his feet off the edge of the bed and started to try to get up and go, as if he thought I was telling him that he should do it right then. It was like there was no past or future tense for him. Everything was in that moment. 
 
-Then someone visited him who he had trouble with in the past. I didn't say anything about the trouble they had. But as soon as they walked in the room, he said, "Oh, can we do this next week?" I was so surprised and of course knew why he wanted to avoid their visit, so much so that he thought of any way he could to postpone it. I scrambled to smooth things over and said, "Hey, look at that, your visit prompted Shane to rediscover time!"
+Then someone visited him who he had trouble with in the past. I didn't say anything about the trouble they had. But as soon as they walked in the room, he said, "Oh, next week?" He quickly came up with an idea to postpone it. :) The doctor had said whatever Shane wanted most, would come back to him first, so it's not surprising he rediscovered time right when he needed it. I told the guest, "Thanks so much for coming. your visit prompted Shane to rediscover time!"
 
 At another point, he reached up and put a hand on my shoulder. And seemed to blow me a kiss when I was across the room.  
 

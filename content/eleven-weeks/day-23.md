@@ -24,7 +24,7 @@ They got him a bigger bed, immediately when they were settling him in. His feet 
 
 He apologized to the nurses for “not being 100% yet” They told him not to worry.
 
-One of the nurses came in to ask him a few questions about his work and other details. He said what he knew and then said "Maybe she knows." I answered and when the nurse finished, Shane looked at me and said "So, what about you, where do you work?" I think he was trying to get to know me, so I teased him and said I was a digital publisher and if he wanted to we could date. I said "Do you want to get married?" He said, "Let's do it!" 😂
+One of the nurses came in to ask him a few questions about his work and other details. He said what he knew and then pointed to me and said "Maybe she knows." I answered and when the nurse finished, Shane looked at me and said "So, what about you, where do you work?" I think he was trying to get to know me better, 😂 so I teased him and said I was a digital publisher and if he wanted to we could date. I said "Do you want to get married?" He said, "Let's do it!" 😂
 
 He skipped ads on the YouTube channel he was watching.
 
