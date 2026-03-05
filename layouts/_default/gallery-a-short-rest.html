@@ -1,0 +1,51 @@
+{{ define "main" }}
+<main class="container">
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.summary }}<p>{{ . }}</p>{{ end }}
+  </header>
+
+  {{ $res := .Resources }}
+  {{ $imgs := where $res "ResourceType" "image" }}
+  {{ $images := sort $imgs "Name" "desc" }}
+
+  {{ if gt (len $images) 0 }}
+    <div class="nap-grid">
+      {{ range $img := $images }}
+        <figure class="nap-item">
+          <a href="{{ $img.RelPermalink }}">
+            <img src="{{ $img.RelPermalink }}" alt="{{ $img.Name }}" loading="lazy" />
+          </a>
+          {{/* Get base name without extension, e.g., 2026-03-05-stillness */}}
+          {{ $base := replaceRE "\\..+$" "" $img.Name }}
+
+          {{/* Extract the first 10 chars (YYYY-MM-DD) safely */}}
+          {{ $dateStr := cond (ge (len $base) 10) (substr $base 0 10) "" }}
+
+          {{/* Parse and format the date if present, else show nothing */}}
+          {{ $caption := "" }}
+          {{ if $dateStr }}
+            {{ $d := time $dateStr }}
+            {{ $caption = dateFormat "January 2, 2006" $d }}
+          {{ end }}
+
+          <figcaption>{{ $caption }}</figcaption>
+                  </figure>
+                {{ end }}
+    </div>
+  {{ else }}
+    <p><em>No photos yet.</em> Add JPG/PNG images to <code>content/about-shane/a-short-nap/</code>. Use names like <code>YYYY-MM-DD-description.jpg</code> so newest show first.</p>
+  {{ end }}
+
+  <style>
+    .nap-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem; align-items: start; }
+    .nap-item {
+  padding: 0;
+  background: transparent;
+  border-radius: 0;
+}
+    .nap-item img { width: 100%; height: auto; display: block; border-radius: 6px; }
+    .nap-item figcaption { font-size: .9rem; opacity: .8; margin-top: .35rem; }
+  </style>
+</main>
+{{ end }}

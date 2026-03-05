@@ -1,11 +1,18 @@
 
-+++
-title = "About Shane"
-description = "Larger Than Life"
-showTitle = true
-+++
+---
+title: "About Shane"
+summary: "Stories, achievements, and memories of Shane Perry."
+menu:
+  main:
+    name: "About Shane"
+    weight: 20
+---
 
+Welcome to this living tribute to **Shane Perry**.
 
-Shane's years ended prematurely but he made them count and the story is far from over.
+Explore these sections:
 
-<!-- You can add photos, quotes, or a timeline here later. -->
+- [Achievements](/about-shane/achievements/)
+- [Talks](/about-shane/talks/)
+- [Childhood](/about-shane/childhood/)
+- [A Short Rest](/about-shane/a-short-rest/)
