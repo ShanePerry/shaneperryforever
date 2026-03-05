@@ -46,7 +46,7 @@ If you want to help us pray for something these are our main concerns. 💓
 
 
 
-Private 
+
 Marc &amp; Anita
 Horse emoji from Uros
 When you want to. It just comes straight out.

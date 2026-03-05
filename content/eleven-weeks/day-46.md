@@ -55,5 +55,5 @@ If you want to help us pray for something these are our main concerns. 💓
 2. Please ask Jehovah to guide the Doctors’ plans for Shane's next surgery.
 3. Please help us Thank Jehovah!
 
-Private 
+
 Shane looked pale and laid on his side for 45 minutes. When anything got near his stomach he said, “be gentle”

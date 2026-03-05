@@ -61,7 +61,7 @@ If you want to help us pray for something these are our main concerns. We have b
 3. Please help us Thank Jehovah!!
 
 
-Private 
+
 New things he said when Justin and Gina were there tonight. 😊
 
 After Justin was talking about the visitors to GHCO, Shane said, "If I get out in a couple weeks maybe I can get back there" 

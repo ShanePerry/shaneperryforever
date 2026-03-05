@@ -14,6 +14,15 @@ comments = true
 +++
 
 ### 1:00 AM
+Josh and Justin said that Brother Sanderson called. He read Isaiah 57:15.
+
+**For this is what the High and Lofty One says,
+Who lives* foreveru and whose name is holy:v
+“I reside in the high and holy place,w
+But also with those crushed and lowly in spirit,
+To revive the spirit of the lowly
+And to revive the heart of those being crushed.-Isaiah 57:15**
+
 I went for the bag of Skittles at the family lounge but it was empty. Justin said he had nervously eaten the whole bag. 
 
 I asked Justin to contact the Service Department and let them know that Shane wouldn't make his Convention Talk in Richmond, VA in two weeks. He asked me if I was sure, because he knew how much Shane was looking forward to the talk on John. I said I didn't see it working any other way.

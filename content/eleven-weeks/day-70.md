@@ -27,7 +27,7 @@ I set up the recliner beside the window, and he wheeled the lunch cart over to e
 
 After lunch, Johnny Becerra dropped off Five Guys. Shane made sure we ate all the french fries while they were still hot. We wrapped the cheeseburger and put it in the fridge for dinner.
 
-He finished **2 liters of water plus a coffee and ginger ale** by 12:30. 👏
+He finished 2 liters of water plus a coffee and ginger ale by 12:30. 👏
 
 ### 1:00
 We watched the weekend meeting on stream. The illustration in the Public Talk about creation made us laugh—the one about animals being powerful and clever. The brother talked about an orangutan in the Woodland Park Zoo in Seattle: a storm blew a large branch into the enclosure. Two zookeepers couldn’t lift it and left to get a chainsaw. In the meantime, a female orangutan saw their struggle, walked over, picked up the branch, and threw it over the fence. 😅

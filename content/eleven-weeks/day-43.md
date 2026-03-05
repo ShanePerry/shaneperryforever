@@ -93,7 +93,7 @@ If you want to help us pray for something these are our main concerns. We have b
 
 
 
-Private 
+
 J-France Jwsite. CD is building a SharePoint site. Can't use hub.
 S-Theyre always doing something 
 
