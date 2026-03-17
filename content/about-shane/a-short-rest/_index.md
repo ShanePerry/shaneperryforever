@@ -1,9 +1,10 @@
 
----
-title: "A Short Rest"
-summary: "Shane is resting peacefully and ready for the alarm clock to get him back up and get back to work."
-layout: "gallery-a-short-rest"
----
++++
+title = "A Short Rest"
+weight = 1
+summary = "Shane is resting peacefully and ready for the alarm clock to get him back up and get back to work."
+layout = "gallery-a-short-rest"
++++
 
 Add your JPG/PNG images directly into this folder. Name them like:
 
