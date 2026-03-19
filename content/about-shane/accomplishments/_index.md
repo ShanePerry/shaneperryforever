@@ -1,7 +1,7 @@
 
 +++
 title = "Accomplishments"
-weight = 3
+weight = 2
 description = "Some of Shane's accomplishments"
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = "Childhood"
-weight = 2
+weight = 3
 description = "Moments and stories from Shane's early years."
 +++
 

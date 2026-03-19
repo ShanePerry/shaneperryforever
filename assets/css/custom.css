@@ -175,7 +175,7 @@ a[href="#the-top"]:hover svg {
 /* Make intro text slate-500-ish and smaller than body */
 .intro.prose-like,
 .intro.prose-like p {
-  color: #64748b !important;      /* slate-500 tone */
+  color: #B1BAC8 !important;      /* slate-500 tone */
   font-size: 0.95rem;             /* smaller body for intro */
   line-height: 1.65;
 }
@@ -282,4 +282,71 @@ article {
   font-size: 1rem !important;          /* = 16px */
   line-height: 1.75rem !important;     /* = 28px */
   color: #AEB3C6 !important;
+}
+
+/* ===== A Short Rest & other single pages: match title + spacing ===== */
+
+/* 1) Page title: text-4xl, font-extrabold, mt-0, mb-8 */
+.page.single header.page-header > h1,
+.single header.page-header > h1,
+header.page-header > h1 {
+  font-size: 2.25rem !important;   /* Tailwind text-4xl */
+  line-height: 2.5rem !important;  /* default line-height for text-4xl */
+  font-weight: 800 !important;     /* font-extrabold */
+  margin-top: 0 !important;        /* mt-0 */
+  margin-bottom: 2rem !important;  /* mb-8 */
+}
+
+/* 2) Breathing room under the whole header (title + intro paragraph) */
+.page.single header.page-header,
+.single header.page-header,
+header.page-header {
+  margin-bottom: 1.5rem !important;
+}
+@media (min-width: 768px) {
+  .page.single header.page-header,
+  .single header.page-header,
+  header.page-header {
+    margin-bottom: 2rem !important;
+  }
+}
+
+/* 3) Extra nudge before any gallery-like block that follows */
+.page.single .content .gallery,
+.page.single .content [class*="gallery"],
+.page.single .page-content .gallery,
+.page.single .page-content [class*="gallery"] {
+  margin-top: 1rem !important;
+}
+
+/* ===== Make ONLY the intro paragraph under the title = 16px ===== */
+header.page-header > p {
+  font-size: 1rem !important;        /* 1rem = 16px */
+  line-height: 1.6 !important;       /* comfortable reading line-height */
+  margin-top: 0.75rem !important;    /* gentle spacing under the title */
+}
+
+/* ===== About Shane TOC: 16px links + comfy spacing ===== */
+.page.list .post-list {
+  /* stack items with a clean gap instead of relying on margins */
+  display: flex;
+  flex-direction: column;
+  gap: 0.625rem;            /* ~10px between items; try 0.75rem (12px) if you want more */
+  padding-left: 0;          /* keep list flush with the header */
+}
+
+.page.list .post-list li {
+  list-style: none;         /* no bullets */
+}
+
+.page.list .post-list a {
+  font-size: 1rem !important;    /* 1rem = 16px */
+  line-height: 1.6 !important;   /* comfortable reading */
+  text-decoration: none;         /* clean look; your hover styles can add underline if you prefer */
+}
+
+/* Optional: a gentle hover so it feels clickable (keeps spacing the same) */
+.page.list .post-list a:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }

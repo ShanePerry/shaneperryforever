@@ -1,0 +1,26 @@
+{{ define "main" }}
+<main id="content" class="page list">
+  <header class="page-header">
+    <h1 class="page-title">{{ .Title }}</h1>
+    {{ with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+  </header>
+
+  {{/* Sort by weight if any page has a weight; otherwise sort by title.
+      We only print the title (no numbers), linked to the page. */}}
+  <ul class="post-list">
+    {{ $pages := .Pages }}
+    {{ if $pages }}
+      {{ $hasWeights := gt (len (where $pages ".Weight" "gt" 0)) 0 }}
+      {{ if $hasWeights }}
+        {{ range $pages.ByWeight }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      {{ else }}
+        {{ range $pages.ByTitle }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </ul>
+</main>
+{{ end }}

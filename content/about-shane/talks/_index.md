@@ -1,7 +1,7 @@
 
 +++
 title = "Talks"
-weight = 4
+weight = 1
 summary = "Videos and written notes from Shane's talks."
 +++
 
