@@ -6,7 +6,7 @@
 
 /* Prose (Congo uses @tailwind/typography) */
 .prose, .prose :where(p) {
-  color: rgb(100 116 139) !important; /* ensure prose respects paragraph color */
+  color: rgb(174 179 198) !important; /* ensure prose respects paragraph color */
 }
 
 /* Lists should match paragraph tone */
@@ -349,4 +349,14 @@ header.page-header > p {
 .page.list .post-list a:hover {
   text-decoration: underline;
   text-underline-offset: 2px;
+}
+
+/* Normalize children inside post lists so only `gap` controls spacing */
+.page.list .post-list > li,
+.page.list .post-list > article,
+.page.list .post-list > * {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
 }

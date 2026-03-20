@@ -6,10 +6,5 @@ showReadingTime = false
 showWordCount = false
 +++
 
-Welcome to **Memories** — a collection of stories from friends and family.
-
-_To contribute a memory, use the submission form below. Submissions may be lightly edited for clarity and formatting before publishing._  
-
-**Share a memory:**  
-(https://example.com/your-form)
+Welcome to _Memories_ — a collection of stories from friends and family. You can share a memory here: (https://example.com/your-form). Submissions may be lightly edited for clarity and formatting before publishing. 
 
