@@ -12,7 +12,7 @@
 # Keep or edit these fields as needed:
 title = "A Memory of Shane"
 author = "Rick Carranza"
-date = ""        # option to add date like this: (2000-01-01)
+date = "2000-01-01"        # option to add date like this: (YYYY-MM-DD)
 tags = []        # option to add tags like this: tags = ["friends", "funny"]
 +++
 
