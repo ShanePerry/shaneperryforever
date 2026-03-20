@@ -122,5 +122,5 @@ She asked:
 
 It was the most brutal day of my life, and at the same time Jehovah's name was honored and respected precisely because of those painful events. It made a lasting impression on the people who observed Shane, his faith still speaks, like Abel. 
 
-"By faith Abel offered God a sacrifice of greater worth than that of Cain,d and through that faith he received the witness that he was righteous, for God approved his gifts, and although he died, ***he still speaks through his faith***."
+"By faith Abel offered God a sacrifice of greater worth than that of Cain, and through that faith he received the witness that he was righteous, for God approved his gifts, and although he died, **he still speaks through his faith**."
 -Hebrews 4:11
