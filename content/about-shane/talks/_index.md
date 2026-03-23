@@ -5,9 +5,9 @@ weight = 1
 summary = "Videos and written notes from Shane's talks."
 +++
 
-Shane had an energetic, thoughtful way of teaching. Friends often said his style was both clear and heartfelt. He believed that anyone could understand anything if it was explained with patience and love.
+Shane had an energetic, thoughtful way of teaching. Friends say his style was clear and heartfelt. He believed that anyone could understand anything if it was explained clearly.
 
-As an elder, he was especially known for being a good listener. One brother expressed it well: *“You could always count on Shane for a listening ear that would never judge. Shane was a true friend in times of distress.”* That same spirit came through in his talks, making them engaging for everyone who heard them.
+As an elder, he was especially known for being a good listener. One brother said: *“You could always count on Shane for a listening ear that would never judge. Shane was a true friend in times of distress.”* That same engaging spirit showed in his talks.
 
 ---
 
