@@ -31,4 +31,4 @@ Key Point: "It's ok to wait, if you're waiting on Jehovah"
 
 [Download Talk Notes (PDF)](/talks/talk-notes.pdf)
 
-Key Point: 'The resurrection is not a dream. It's a reality. And this reality will change your life forever'
+Key Point: "The resurrection is not a dream. It's a reality. And this reality will change your life forever"
