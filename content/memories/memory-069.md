@@ -10,7 +10,7 @@
 # encouragement
 
 # Keep or edit these fields as needed:
-title = "Cleaning Crew at Standish"
+title = "Standish Cleaning Crew"
 author = "Jason and Liliana Pannell"
 date = "2000-01-01"        # option to add date like this: (YYYY-MM-DD)
 tags = ["work"]        # option to add tags like this: tags = ["friends", "funny"]

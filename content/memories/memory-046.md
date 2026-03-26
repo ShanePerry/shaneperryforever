@@ -11,7 +11,7 @@
 
 # Keep or edit these fields as needed:
 title = "Greatest Example"
-author = "Rene' and Neissa
+author = "Rene and Neissa"
 date = "2024-09-28"        # option to add date like this: (YYYY-MM-DD)
 tags = ["encouragement"]        # option to add tags like this: tags = ["friends", "funny"]
 +++

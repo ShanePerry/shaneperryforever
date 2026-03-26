@@ -12,7 +12,7 @@
 # Keep or edit these fields as needed:
 title = "Exceptional Kindness and Humility"
 author = "Anonymous"
-date = "2024-09-28        # option to add date like this: (YYYY-MM-DD)
+date = "2024-09-28"        # option to add date like this: (YYYY-MM-DD)
 tags = ["encouragement"]        # option to add tags like this: tags = ["friends", "funny"]
 +++
 

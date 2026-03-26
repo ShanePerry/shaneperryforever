@@ -10,7 +10,7 @@
 # encouragement
 
 # Keep or edit these fields as needed:
-title = "Sorry, I Know That's Not What You Want"
+title = "Sorry, I Know That's Not What I Should Be Doing"
 author = "Yvette from Helen Hayes PT"
 date = "2024-07-30"        # option to add date like this: (YYYY-MM-DD)
 tags = ["encouragement"]        # option to add tags like this: tags = ["friends", "funny"]

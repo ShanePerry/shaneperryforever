@@ -10,7 +10,7 @@
 # encouragement
 
 # Keep or edit these fields as needed:
-title = "Strong Friendships and Enjoyable Projects"
+title = "Strong Friendships - Enjoyable Projects"
 author = "Chris Chobot"
 date = "2024-09-28"        # option to add date like this: (YYYY-MM-DD)
 tags = ["work"]        # option to add tags like this: tags = ["friends", "funny"]

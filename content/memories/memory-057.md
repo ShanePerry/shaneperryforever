@@ -10,7 +10,7 @@
 # encouragement
 
 # Keep or edit these fields as needed:
-title = "Our Basketball Conversations"
+title = "Basketball Conversations"
 author = "Andrew and Katie"
 date = "2024-06-17"        # option to add date like this: (YYYY-MM-DD)
 tags = ["friends", "encouragement"]        # option to add tags like this: tags = ["friends", "funny"]
