@@ -2,7 +2,7 @@
 +++
 title = "A Short Rest"
 weight = 4
-summary = "Shane is resting peacefully and ready for the alarm clock to get him back up and get back to work."
+summary = "Shane is resting peacefully, temporarily assigned to Wallkill 💗 and ready for the alarm clock to get him back up and get back to work."
 layout = "gallery-a-short-rest"
 +++
 
