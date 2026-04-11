@@ -12,7 +12,7 @@
 # Keep or edit these fields as needed:
 title = "The Book Collection"
 author = "Leah Lee"
-date = "2024-09-24"        # option to add date like this: (YYYY-MM-DD)
+date = "2024-09-28"        # option to add date like this: (YYYY-MM-DD)
 tags = ["family"]        # option to add tags like this: tags = ["friends", "funny"]
 +++
 
