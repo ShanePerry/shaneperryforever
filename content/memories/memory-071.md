@@ -11,7 +11,7 @@
 
 # Keep or edit these fields as needed:
 title = "Genunine Nard"
-author = "Vanessa"
+author = "Nessy"
 date = "2023-09-09"        # option to add date like this: (YYYY-MM-DD)
 tags = ["spiritual life", "funny"]        # option to add tags like this: tags = ["spiritual life", "funny"]
 +++
