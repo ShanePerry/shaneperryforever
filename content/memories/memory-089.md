@@ -12,7 +12,7 @@
 # Keep or edit these fields as needed:
 title = "Two Emojis"
 author = "Nessy"
-date = "2024-09-28"        # option to add date like this: (YYYY-MM-DD)
+date = "2024-08-27"        # option to add date like this: (YYYY-MM-DD)
 tags = ["friends", "funny"]        # option to add tags like this: tags = ["friends", "funny"]
 +++
 
