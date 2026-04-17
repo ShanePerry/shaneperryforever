@@ -11,7 +11,7 @@
 
 # Keep or edit these fields as needed:
 title = "Gran Pappy"
-author = "Natasha Perry "Cous""
+author = 'Natasha Perry "Cous"'
 date = "2022-01-01"        # option to add date like this: (YYYY-MM-DD)
 tags = ["friends", "funny"]        # option to add tags like this: tags = ["friends", "funny"]
 +++
