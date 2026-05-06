@@ -32,3 +32,12 @@ Key Point: "It's ok to wait, if you're waiting on Jehovah"
 [Download Talk Notes (PDF)](/talks/talk-notes.pdf)
 
 Key Point: "The resurrection is not a dream. It's a reality. And this reality will change your life forever"
+
+
+---
+
+## Morning Worship Comment Heb 2:9 • 11-7-23
+
+{{< youtube evibfczV4J0 >}}
+
+Key Point: "If Jehovah considers the difference between an angel and a human as something 'little' then the difference between one person and another must be very small indeed. Keeping Jehovah's perspective will stabilize us if we find ourselves comparing what we can or can't do with that of those around us"
